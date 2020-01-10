@@ -14,4 +14,4 @@
   音樂遊戲，當音符落到白色判定線時按下對應的按鍵來消除音符，若超過判定線則喪失一條生命，判定線往上兩格為得分範圍，在音樂結束前還有剩餘生命為過關，反之則失敗，結束後按任意鍵可重新開始。
   
 # Demo Video:
- [![圖片alt到底三小](https://drive.google.com/vi/open?id=1dsUKFF945moWpXyD0L86eseNf1l3repO/0.jpg)](https://drive.google.com/open?id=1dsUKFF945moWpXyD0L86eseNf1l3repO)
+ [![圖片alt到底三小](https://github.com/chien119/Read/blob/master/%E5%B0%81%E9%9D%A2.png)](https://drive.google.com/open?id=1dsUKFF945moWpXyD0L86eseNf1l3repO)
